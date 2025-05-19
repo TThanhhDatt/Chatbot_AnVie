@@ -30,6 +30,6 @@ Xây dựng Back-end Chatbot:
 Vì dự án này vẫn còn trong thời gian phát triển nên đây chỉ là bản mở đầu của dự án, tương lai AI này sẽ được phát triển thêm về CSDL, AI Agent,...
 
 # Một số hình ảnh demo:
-![alt text](img\GD1.png "Giao diện")
+![alt text](img/GD1.png "Giao diện")
 
-![alt text](img\GD2.png "Giao diện")
+![alt text](img/GD2.png "Giao diện")
